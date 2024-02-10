@@ -26,6 +26,21 @@ body {
   margin-top: 10px;
 }
 
+/* Picture Layout Large Example */
+#picture-layout {
+  max-width: 70%;
+  margin: auto;
+}
+
+#picture-layout section {
+  margin: 10px;
+  text-align: center;
+}
+
+#picture-layout section img {
+  margin-top: 10px;
+}
+
 /* Larger Resolutions */
 /* ALL Flexing goes in here */
 @media only screen and (min-width: 600px) {
